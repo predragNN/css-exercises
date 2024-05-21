@@ -1,0 +1,19 @@
+.paragraf {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#numberTwo {
+    color: blue;
+    font-size: 24px;
+}
+
+.paragraf.poseban {
+    font-size: 24px;
+}
+
+#numberFour {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
